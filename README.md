@@ -26,3 +26,66 @@ The Spotify Clone is a music streaming platform that allows users to browse song
 - Volume and progress control
 
 - Clean and intuitive UI inspired by Spotify
+
+## 🎧 Music Player
+
+- Custom audio player
+
+- Play queue management
+
+- Volume control
+
+- Progress bar with seek functionality
+
+- Background playback support
+
+## 🛠️ Admin Features (Optional / Advanced)
+
+- Upload songs and album covers
+
+- Manage artists, albums, and tracks
+
+- Content moderation
+
+## 🧱 Tech Stack
+### Frontend
+
+- React.js
+
+- Redux Toolkit / Context API
+
+- HTML5 / CSS3
+
+- JavaScript (ES6+)
+
+- Axios
+
+- React Router
+
+- Bootsrap / Styled Components
+
+### Backend
+
+- Node.js
+
+- Express.js
+
+- MongoDB
+
+- Mongoose
+
+- JWT Authentication
+
+- Bcrypt
+
+- Multer (file uploads)
+
+### DevOps & Tools
+
+- Git & GitHub
+
+- Postman
+
+- Cloudinary 
+
+- Render / Vercel (deployment)
